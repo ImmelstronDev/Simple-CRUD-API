@@ -1,4 +1,3 @@
-import { hello } from "./app";
+import { App } from "./app";
 
-console.log("hello pidor");
-console.log(hello);
+App();
